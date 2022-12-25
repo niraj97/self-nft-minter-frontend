@@ -5,6 +5,14 @@
     "collectionMint": ""
   },
   "items": {
+    "-1": {
+      "name": "Post Apocalyptic World Collection",
+      "image_hash": "dc7d3f53d35f5d10dfcc42015e6aa2d7055e431a972de541c6487e55a098f898",
+      "image_link": "https://arweave.net/kqMNMibpgDvWoy1CRkdzOusLo1mAvp2MIsQZ_LUYBfQ?ext=jpeg",
+      "metadata_hash": "3968beb5fa39bdfe3820c379c31bde1467bca925a2ba0c9f74447416a33f0406",
+      "metadata_link": "https://arweave.net/3K5E3qsL51rddGj7WOlqK7EjK4PhH1SYeTIF3D625y0",
+      "onChain": false
+    },
     "0": {
       "name": "Post Apocalyptic World #0",
       "image_hash": "b698740d93e0357fe8aad8cbc737e555f1eeb594ab6e3a92bc5d70565fec3cdf",
