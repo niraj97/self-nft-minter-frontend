@@ -1,0 +1,113 @@
+{
+  "program": {
+    "candyMachine": "E3sQLhW2hKdHWEbDCTA62PHLwWopTdbD5MnwoibJffPG",
+    "candyMachineCreator": "GE1Z1HsiBKnK2a15FCPjNYDg7xytSdPRFdW91PzoM5bx",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Post Apocalyptic World #0",
+      "image_hash": "b698740d93e0357fe8aad8cbc737e555f1eeb594ab6e3a92bc5d70565fec3cdf",
+      "image_link": "https://arweave.net/W66Xj_I1MSWo2TPLrgkoCJnDDcDfVN03lPU7dD5zOEg?ext=jpeg",
+      "metadata_hash": "171a82d22f72b285b2d78c0af9f8ffb5860e362533df62b2a6f8b9281c153fbc",
+      "metadata_link": "https://arweave.net/zzd58UYjWbl9L_f5OvIm5vfBnIk8uSX3uQfDE9FrJxM",
+      "onChain": true
+    },
+    "1": {
+      "name": "Post Apocalyptic World #1",
+      "image_hash": "c349ee7da1cf08c9f4cad1a071a7fce2c72c1dfe3d2459df1632d5741681ca33",
+      "image_link": "https://arweave.net/tGLjy8h31fCSttXBK0H5qEzqdbA35Hs223Cq83m2J5s?ext=jpeg",
+      "metadata_hash": "782a7a9a41e964182224067d38a19803e62afb4bacfd3729d005128cc22cd3fd",
+      "metadata_link": "https://arweave.net/SNdN1yMSyfSoEqVVt7jlB55M4tGPJeSxiclYqq7CJEs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Post Apocalyptic World #2",
+      "image_hash": "deb21cb75a783da4282a01d6354c21aef5b6f2ba24f050a8e18e3f9d78267792",
+      "image_link": "https://arweave.net/b0PqstonIaRomhyYGMh2bbt6TA6F86BBMORhPM3N93Y?ext=jpeg",
+      "metadata_hash": "2a3577e88ed09642b4c9ad5d875d3c09d40d1365bc5e9c91919388b3bee8275b",
+      "metadata_link": "https://arweave.net/TUySCwiCoYteX-ZQLMWOEaIjnCjr6jhmgfQWIRNmMLE",
+      "onChain": true
+    },
+    "3": {
+      "name": "Post Apocalyptic World #3",
+      "image_hash": "d415367dee3c71d772a312992aec5b831a85b93a87f01ab323fad04ae689da39",
+      "image_link": "https://arweave.net/7FNyV9r23CxDWQ0igy0D7hb-2aIBvid61EUxmxIeghs?ext=jpeg",
+      "metadata_hash": "a46e731391a46ea9cb5f9fa8fbf678b89ba38b9151d6901b82c9aa70680b0c0b",
+      "metadata_link": "https://arweave.net/sHf0rtMplw_vclt3lTcEilsYjVT2aje9HAo0UoegwbA",
+      "onChain": true
+    },
+    "4": {
+      "name": "Post Apocalyptic World #4",
+      "image_hash": "47df919e4ec65e71b8367be9111aacece2b13de30bd0c50393fecc22fa99f1b6",
+      "image_link": "https://arweave.net/dzIl2ZeS3LagkZWnVrURF_IkndrR7iya_bmtBczWUa0?ext=jpeg",
+      "metadata_hash": "ba3cc20388d2171f64c26a82dba6acfe3ea2164a028af554dc927b7fb02555ed",
+      "metadata_link": "https://arweave.net/2vm3izcWE6F0PZaMwWoLRJR7ouzvrnEBlKcjNVfEmYw",
+      "onChain": true
+    },
+    "5": {
+      "name": "Post Apocalyptic World #5",
+      "image_hash": "92ba9974819aa9b5034d99cdf592d3c333ae1e4b03dd48c1d988df5ec337d803",
+      "image_link": "https://arweave.net/iwdEpc8OBqTA1omhpdGv0ww3liAbQdNX75BsrpyoOt0?ext=jpeg",
+      "metadata_hash": "9fb7ee5e5f631ba31cd77f4f686b30e14c01c58905b1fe67acabdacffa18a761",
+      "metadata_link": "https://arweave.net/2nUZvRNbTb4tRmOLsocp2pu9LNoD5wGAaD4t-3ayrOU",
+      "onChain": true
+    },
+    "6": {
+      "name": "Post Apocalyptic World #6",
+      "image_hash": "4b4927bc274d3ef81cc4e608628fa1ccd1751f8a413bb27ff92533f1b4fcc0ec",
+      "image_link": "https://arweave.net/NhH-OhJi2oDILJlrQGiMMQB31G35aRMHBO9A0NuaHZs?ext=jpeg",
+      "metadata_hash": "25a2c02cbbce4128318861988541962b6c12301ec7ee8979201cfec2bb708421",
+      "metadata_link": "https://arweave.net/6clLkNqJ_zQAhN0PxmDaLr6MySEjAOpw4Qdx4Cdaw14",
+      "onChain": true
+    },
+    "7": {
+      "name": "Post Apocalyptic World #7",
+      "image_hash": "98bb68dce560202762c26aa23310dff4841ecb9540464e3d77f9df0b755f2dd3",
+      "image_link": "https://arweave.net/IdYy6MzOr6mTO9JzpOIpBS5vCVJfproj8TdsRYmDTRo?ext=jpeg",
+      "metadata_hash": "5c326d050b3c50d5e194059eafaca753b4b6dcaf85b98a3371fd4b5c0924a710",
+      "metadata_link": "https://arweave.net/RDmuvsobWYmf7QZj9cGd9RgedVH3v3ab9xCj0QQsfMY",
+      "onChain": true
+    },
+    "8": {
+      "name": "Post Apocalyptic World #8",
+      "image_hash": "7812faadeae9be51130641862f51e6c7de909cf61cebeddb9074720cc6b1f1ca",
+      "image_link": "https://arweave.net/tejpe-ROx5WZokuse5YWiW2rRWQsfMHd_gqhpULFCy8?ext=jpeg",
+      "metadata_hash": "c6de8974079b6cf7e7b42b47491087b4a2b6ade1ecf7c294a9cbcfb1a075627a",
+      "metadata_link": "https://arweave.net/JRS3eU_eT7cc_QeBe3x-MorNoy889-JZGYQWerVzCuA",
+      "onChain": true
+    },
+    "9": {
+      "name": "Post Apocalyptic World #9",
+      "image_hash": "a61f66a0424b32b6f9874860e4031086d506a4dfea5513970460487f8296b2eb",
+      "image_link": "https://arweave.net/Qk6NZqwSOWPm8b85FtI9Pmk33yzuSNpAHqWEA2FejpI?ext=jpeg",
+      "metadata_hash": "d7506bf0c22f66f0cbb2efa457290cf303cd8e81060c876af49d57f940ca4e7f",
+      "metadata_link": "https://arweave.net/Fi4KhfX1BMpeZvVDuSms_IwyawRi85143x0VlU7Qd08",
+      "onChain": true
+    },
+    "10": {
+      "name": "Post Apocalyptic World #10",
+      "image_hash": "67d5398fc30b0919f92196881e71d3f7f3515db94a7303b2b5dbb90b18abcf9c",
+      "image_link": "https://arweave.net/q7jGXLjCCLKvDK-0TDintsFednXOrKjhEfnZlhoec3Q?ext=jpeg",
+      "metadata_hash": "3b133c485e33083be838ecaaccba6cbe44d7cba4820478ae3bf06a2816dd1073",
+      "metadata_link": "https://arweave.net/7z-2yDjnhVL_rNjBnPjuoLMZ9AHJe2CX6RDDZAKx0oI",
+      "onChain": true
+    },
+    "11": {
+      "name": "Post Apocalyptic World #11",
+      "image_hash": "a532eb1ff63389315f39142cbe0fd5fcb8043155129bf882987cd95460355a0c",
+      "image_link": "https://arweave.net/IzDcI0KuedAgE30PyQNpoCSimfP2Cp-G6o0C4kg8Zbc?ext=jpeg",
+      "metadata_hash": "9084cc04be3a2805990e15e5a1b811972c1ebecc6b48538dd336c22eb71d7012",
+      "metadata_link": "https://arweave.net/Fvm8dvW_aomy0B5CXQJ7BP9Rj1y0MLpeqpJo7ISDJd8",
+      "onChain": true
+    },
+    "12": {
+      "name": "Post Apocalyptic World #12",
+      "image_hash": "b1874f37f625c6b39502cbe103e414e6654a446cfe4339d5c9d9c6901819ba43",
+      "image_link": "https://arweave.net/X1B0Nktv6NdcV6hXcGzUU-Br_f8hKO_C_aG7fK58eA8?ext=jpeg",
+      "metadata_hash": "c5369384e89c62dd197d190ea1102a8dadb83fc99693e1a9d40655d00a3dddf1",
+      "metadata_link": "https://arweave.net/3KmKPZC2nIU5UByPLOD9JEgcYH6-FNdnaYq2kj4ZZCQ",
+      "onChain": true
+    }
+  }
+}

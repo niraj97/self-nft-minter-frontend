@@ -1,0 +1,24 @@
+{
+    "name": "Post Apocalyptic World #7",
+    "symbol": "PAW",
+    "description": "Post Apocalyptic World with no human and animals. Only the Robot animals.",
+    "image": "7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "robots",
+            "value": "2"
+        },
+        {
+            "trait_type": "buildings",
+            "value": "0"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
